@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifestealSMP-lCMc.aternos.me",
+    "ip": "lifestealSMP-lCMc.aternos.me:17475",
     "port": 27586,
     "version": "",
     "try-creative": false
